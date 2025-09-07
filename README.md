@@ -66,23 +66,24 @@ Here is an example dashboard created using the Gold Layer of the Data Warehouse:
 
 ├── Docs/                  # Project documentation & diagrams
 │   ├── Arch.png
-│   ├── data\_flow\.png
-│   ├── data\_integration.png
-│   └── data\_model.png
+│   ├── data_flow.png
+│   ├── data_integration.png
+│   ├── data_model.png
+│   └── Dash.png
 │
 ├── SQL Scripts/           # ETL SQL scripts for each layer
 │   ├── Bronze Layer/
-│   │   ├── DDL\_Bronze.sql
+│   │   ├── DDL_Bronze.sql
 │   │   └── Load FROM Source TO Bronze.sql
 │   ├── Silver Layer/
-│   │   ├── DDL\_Silver.sql
+│   │   ├── DDL_Silver.sql
 │   │   └── Load FROM Bronze TO Silver.sql
 │   └── Gold Layer/
-│       └── Gold\_Views.sql
+│       └── Gold_Views.sql
 │
 ├── Source Data/           #  input data (CSV files)
-│   ├── CRM/
-│   └── ERP/
+│   ├── CRM
+│   └── ERP
 │     
 └── README.md
 
