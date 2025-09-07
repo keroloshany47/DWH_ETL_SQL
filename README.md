@@ -44,6 +44,19 @@ The DWH is designed using a 3-layered approach:
 ![Data Flow](Docs/data_flow.png)
 
 ---
+##  Data Model
+
+![Data Model](Docs/data_model.png)
+---
+## 📊 Dashboards
+
+Here is an example dashboard created using the Gold Layer of the Data Warehouse:
+
+### Example Dashboard
+![Dashboard](Docs/Dash.png)
+- Visualizes key metrics from the Gold Layer.
+- Includes KPIs such as sales, customer insights, and maintenance rate.
+
 
 ## 📂 Repository Structure
 
@@ -92,9 +105,6 @@ The DWH is designed using a 3-layered approach:
 
 ---
 
-##  Data Model
-
-![Data Model](Docs/data_model.png)
 
 
 ##  Contact 
