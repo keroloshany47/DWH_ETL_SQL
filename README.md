@@ -49,7 +49,7 @@ The DWH is designed using a 3-layered approach:
 ![Data Model](Docs/data_model.png)
 
 ---
-## 📊 Dashboards
+##  Dashboards
 
 Here is an example dashboard created using the Gold Layer of the Data Warehouse:
 
