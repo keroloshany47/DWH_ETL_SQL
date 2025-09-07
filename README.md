@@ -1,4 +1,4 @@
-# 📊 Data Warehouse with ETL in SQL Server
+#  Data Warehouse with ETL in SQL Server
 
 This repository contains a full **Data Warehouse (DWH) project** built with **SQL Server** following the **Bronze → Silver → Gold** layered architecture.  
 The project demonstrates how raw data from **CRM** and **ERP** systems can be ingested, cleaned, standardized, and transformed into **business-ready data models** for analytics & reporting.
@@ -33,7 +33,7 @@ The DWH is designed using a 3-layered approach:
 
 ---
 
-## 🏗 Architecture
+##  Architecture
 
 ![Architecture](Docs/Arch.png)
 
@@ -80,7 +80,7 @@ The DWH is designed using a 3-layered approach:
 1. Clone the repository:
    ```bash
    git clone https://github.com/keroloshany47/DWH_ETL_SQL.git
-````
+``
 
 2. Set up a **SQL Server instance**.
 3. Execute the scripts in order:
@@ -92,7 +92,7 @@ The DWH is designed using a 3-layered approach:
 
 ---
 
-## 📊 Data Model
+##  Data Model
 
 ![Data Model](Docs/data_model.png)
 
