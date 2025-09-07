@@ -75,12 +75,12 @@ The DWH is designed using a 3-layered approach:
 
 ---
 
-## ⚙ How to Run
+##  How to Run
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/keroloshany47/DWH_ETL_SQL.git
-``
+
 
 2. Set up a **SQL Server instance**.
 3. Execute the scripts in order:
