@@ -112,5 +112,5 @@ Here is an example dashboard created using the Gold Layer of the Data Warehouse:
 
 ##  Contact 
 
-* LinkedIn: [kerolos-hani-data](https://www.linkedin.com/in/kerolos-hani-data/)
+* LinkedIn: [kerolos-hani-data](https://www.linkedin.com/in/keroloshani-data/)
 * Email: [keroloshani474@gmail.com](mailto:keroloshani474@gmail.com)
