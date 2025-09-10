@@ -20,7 +20,8 @@ The DWH is designed using a 3-layered approach:
 - Contains **cleaned and standardized** data.  
 - Applied transformations:
   - Data cleaning  
-  - Normalization & standardization  
+  - Data Normalization 
+  - Data standardization  
   - Derived columns  
   - Data enrichment  
 
